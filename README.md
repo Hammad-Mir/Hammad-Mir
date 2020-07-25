@@ -28,12 +28,12 @@ I am focused on computer vision challenges in the healthcare sector.
 </br>
 
 
-- 🔭 I’m currently working on Acute Lymphoblastic Leukemia (ALL) detection.
+- 🔭 Currently working on Acute Lymphoblastic Leukemia (ALL) detection.
 
 </br>
 
 
-- 🌱 I’m currently learning:
+- 🌱 Currently learning:
 
 Pytorch With Fast.ai
 <a href="https://pytorch.org/">
