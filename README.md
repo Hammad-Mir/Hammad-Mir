@@ -51,7 +51,7 @@ Pytorch With Fast.ai
 
 <!---Numpy--->
 <a href="https://numpy.org/">
-  <img align="left" alt="Numpy" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
+  <img align="left" alt="Numpy" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
 </a>
 
 <!---Pandas--->
@@ -84,6 +84,7 @@ Pytorch With Fast.ai
   <img align="left" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" />
 </a>
 
+</br>
 
 ---
 
