@@ -25,9 +25,13 @@ I'm a computer science graduate with a passion for Machine Learning and Deep Lea
 
 I am focused on computer vision challenges in the healthcare sector.
 
+</br>
 
 
 - 🔭 I’m currently working on Acute Lymphoblastic Leukemia (ALL) detection.
+
+</br>
+
 
 - 🌱 I’m currently learning:
 
@@ -35,6 +39,8 @@ Pytorch With Fast.ai
 <a href="https://pytorch.org/">
   <img align="left" alt="Pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
 </a>
+
+</br>
 
 - 🛠️ Tools & Languages:
 
@@ -75,7 +81,7 @@ Keras
 
 Jupyter Notebook
 <a href="https://jupyter.org/">
-  <img align="left" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Jupyter.svg" />
+  <img align="left" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" />
 </a>
 
 </br>
