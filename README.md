@@ -1,6 +1,5 @@
 ### Hi there, I'm Hammad 👋
 
----
 
 <a href="https://twitter.com/hammaduleaman">
   <img align="left" alt="Hammad Mir| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,7 +17,9 @@
   <img align="left" alt="Hammad Mir | Angel.co" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angellist.svg" />
 </a>
 </br>
+
 ---
+
 
 I'm a computer science graduate with a passion for Machine Learning and Deep Learning.
 
