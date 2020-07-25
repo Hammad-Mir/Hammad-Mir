@@ -44,42 +44,42 @@ Pytorch With Fast.ai
 
 - 🛠️ Tools & Languages:
 
-Python
+<!---Python--->
 <a href="https://python.org/">
   <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </a>
 
-Numpy
+<!---Numpy--->
 <a href="https://numpy.org/">
-  <img align="left" alt="Numpy" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
+  <img align="left" alt="Numpy" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
 </a>
 
-Pandas
+<!---Pandas--->
 <a href="https://pandas.pydata.org/">
   <img align="left" alt="Pandas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 </a>
 
-Matplotlib
+<!---Matplotlib--->
 <a href="https://matplotlib.org/">
-  <img align="left" alt="Pytorch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+  <img align="left" alt="Pytorch" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 </a>
 
-OpenCV
+<!---OpenCV--->
 <a href="https://opencv.org/">
   <img align="left" alt="OpenCV" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 </a>
 
-Tensorflow
+<!---Tensorflow--->
 <a href="https://tensorflow.org/">
   <img align="left" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 </a>
 
-Keras
+<!---Keras--->
 <a href="https://keras.io/">
   <img align="left" alt="Keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />
 </a>
 
-Jupyter Notebook
+<!---Jupyter Notebook--->
 <a href="https://jupyter.org/">
   <img align="left" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" />
 </a>
