@@ -84,7 +84,6 @@ Jupyter Notebook
   <img align="left" alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jupyter.svg" />
 </a>
 
-</br>
 
 ---
 
