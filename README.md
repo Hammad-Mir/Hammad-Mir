@@ -17,7 +17,7 @@
 <a href="https://angel.co/u/hammad-mir-1">
   <img align="left" alt="Hammad Mir | Angel.co" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angellist.svg" />
 </a>
-
+</br>
 ---
 
 I'm a computer science graduate with a passion for Machine Learning and Deep Learning.
