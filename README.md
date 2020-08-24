@@ -10,7 +10,7 @@
 <a href="https://instagram.com/hammad_ul_eaman_mir">
   <img align="left" alt="Hammad Mir| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hammad-mir-9027aa108/">
+<a href="https://www.linkedin.com/in/hammad-mir">
   <img align="left" alt="Hammad Mir | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://angel.co/u/hammad-mir-1">
