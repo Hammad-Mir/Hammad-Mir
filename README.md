@@ -35,9 +35,14 @@ I am focused on computer vision challenges in the healthcare sector.
 
 - 🌱 Currently learning:
 
-Pytorch With Fast.ai
+Pytorch + Fast.ai
 <a href="https://pytorch.org/">
   <img align="left" alt="Pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
+</a>
+
+Django
+<a href="https://www.djangoproject.com/">
+  <img align="left" alt="Pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
 </a>
 
 </br>
