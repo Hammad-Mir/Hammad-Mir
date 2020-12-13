@@ -93,21 +93,26 @@ Django
 
 ---
 
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on Leukemia detection using Deep Learining.
 
-Other than coding, I'm either found riding away on my bicycle or doodling/ drawing.
+- ⚡ Me: 
+
+Coding
+Cycling
+Art
+
 
 <!--
 **Hammad-Mir/Hammad-Mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Leukemia detection using Deep Learining.
+- 🌱 I’m currently learning Pytorch and Faast AI.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: No need to overcoimplicate.
 - ⚡ Fun fact: ...
 -->
