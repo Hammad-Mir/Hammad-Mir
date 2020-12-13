@@ -28,7 +28,7 @@ I am focused on computer vision challenges in the healthcare sector.
 </br>
 
 
-- 🔭 Currently working on Acute Lymphoblastic Leukemia (ALL) detection.
+- 🔭 Currently working on Acute Lymphoblastic Leukemia (ALL) detection using deep learning.
 
 </br>
 
@@ -92,8 +92,6 @@ Django
 </br>
 
 ---
-
-- 🔭 I’m currently working on Leukemia detection using Deep Learining.
 
 - ⚡ Me: 
 
