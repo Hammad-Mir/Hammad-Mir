@@ -28,7 +28,7 @@ I am focused on computer vision challenges in the healthcare sector.
 </br>
 
 
-- 🔭 Currently working on Acute Lymphoblastic Leukemia (ALL) detection using deep learning.
+- 🔭 Most recently worked on Weakly Supervised Semantic Segmentation for Lung Adenocarcinoma histopathological images using Vision Transformers.
 
 </br>
 
