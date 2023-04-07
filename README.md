@@ -79,6 +79,11 @@ Django
   <img align="left" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 </a>
 
+<!---PyTorch--->
+<a href="https://pytorch.org/">
+  <img align="left" alt="Pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
+</a>
+
 <!---Keras--->
 <a href="https://keras.io/">
   <img align="left" alt="Keras" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />
